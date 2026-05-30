@@ -3,7 +3,7 @@
 // @namespace    https://github.com/userscripts/examples
 // @version      1.1.0
 // @description  Schaltet YouTube-Untertitel standardmäßig aus (Watch & Shorts). Nur beim Start ausschalten; manuelles Aktivieren bleibt erhalten.
-// @author       you
+// @author       ValenVanHel
 // @match        https://www.youtube.com/*
 // @match        https://m.youtube.com/*
 // @match        https://youtu.be/*
