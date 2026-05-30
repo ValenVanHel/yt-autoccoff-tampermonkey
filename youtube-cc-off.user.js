@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         YouTube CC immer aus
 // @namespace    https://github.com/userscripts/examples
-// @version      1.1.0
+// @version      0.1
 // @description  Schaltet YouTube-Untertitel standardmäßig aus (Watch & Shorts). Nur beim Start ausschalten; manuelles Aktivieren bleibt erhalten.
 // @author       ValenVanHel
 // @match        https://www.youtube.com/*
